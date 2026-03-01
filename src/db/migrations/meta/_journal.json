@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1772300117011,
+      "tag": "0000_past_trish_tilby",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1772302755961,
+      "tag": "0001_spicy_dexter_bennett",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1772374885927,
+      "tag": "0002_absent_johnny_blaze",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1772390334748,
+      "tag": "0003_perfect_zemo",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1772393266933,
+      "tag": "0004_married_zombie",
+      "breakpoints": true
+    }
+  ]
+}
